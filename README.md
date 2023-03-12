@@ -12,7 +12,7 @@
 :white_check_mark: **Полезные ссылки:**
 
 * Текущие связанные курсы
-    * [Курс Практикума, весна(репозитория пока не существует)](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023) 
+    * [Курс Практикума, весна](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023) 
     * [Общий курс ML](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23)
 
 * Осенний семестр
@@ -74,4 +74,4 @@ _В иных случах эти два курса сдаются каждый �
 | 9 февраля  | Семинар 1 | <ul><li>Аппроксимация ядер</li><li>Ядра для строк</li></ul> | <ul><li>[Семинар по аппроксимации](https://github.com/esokolov/ml-course-22/blob/main/files/Spotify%20tracks%20popularity%20prediction.pdf)| [домашка на ядра](https://github.com/mmp-mmro-team/-mmp_mmro_spring_2023/blob/main/homework_practice/homework-practice-01-random-features.ipynb) | 
 | 16 февраля | Семинар 2 | Задачи на байесовский подход | <ul><li>[Презентация](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/PresentationPPD.pdf)</li><li>[Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/Sem13_bayes.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
 | 2 марта | Семинар 3 | <ul><li>Вывод линейного дискриминанта Фишера</li><li>Ядровой дискриминант Фишера</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/sem15-fld.pdf) | ¯\\\_(ツ)\_/¯ |
-| 9 марта | Семинар 4 |  EM-алгоритм: сходимость, скорость сходимости, связь с градиентным подъёмом | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture15-em.pdf) | [Крещение огнем](https://github.com/mmp-mmro-team/-mmp_mmro_spring_2023/tree/main/homework-practice/homework-practice-09-em) |
+| 9 марта | Семинар 4 |  EM-алгоритм: сходимость, скорость сходимости, связь с градиентным подъёмом | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture15-em.pdf) | [Крещение огнем](https://github.com/mmp-mmro-team/-mmp_mmro_spring_2023/blob/main/homework_practice/em/homework-practice-09-em.ipynb) |
