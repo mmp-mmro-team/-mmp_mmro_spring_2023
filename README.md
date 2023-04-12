@@ -78,7 +78,7 @@ _В иных случах эти два курса сдаются каждый �
 | 16 марта | Семинар 5 | EM-алгоритм | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem15-em.pdf) | ¯\\\_(ツ)\_/¯  | 
 | 23 марта | Семинар 6 | Multilabel-задачи | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem21-multilabel.pdf) |¯\\\_(ツ)\_/¯ |
 | 30 марта | Семинар 7 | <ul><li>Спектральная кластеризация</li><li>Внешняя оценка качества кластеризации</li></ul>  | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2021/blob/main/seminars/lecture17-clusterization.pdf)  |  ¯\\\_(ツ)\_/¯  |
-| 6 апреля | Семинар 8 | Тематическое моделирование  |  [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/topic_modeling_.ipynb) |  |
+| 6 апреля | Семинар 8 | Тематическое моделирование  |  [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/topic_modeling_.ipynb) | [изи дз](https://github.com/mmp-mmro-team/-mmp_mmro_spring_2023/blob/main/homework_practice/homework-practice-10-unsupervised.ipynb) |
 | 13 апреля | Семинар 9 | Обучение метрик  |  |  |
 | 20 апреля | Семинар 10 | Top secret  |  |  |
 | 27 апреля | Семинар 11 | Рекомендательные системы  |  |  |
